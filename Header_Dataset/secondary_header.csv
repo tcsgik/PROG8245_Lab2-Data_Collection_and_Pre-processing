@@ -1,0 +1,5 @@
+Field	Type	Description	Source
+Province	String	Shipping province of customer 	Secondary metadata source
+Ship Date	Date	Product shipping date	Secondary metadata source
+Sales Channel	String	Shipping platform	Secondary metadata source
+Order Priority	String	Product order priority	Secondary metadata source

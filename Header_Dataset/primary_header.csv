@@ -1,0 +1,9 @@
+Field	Type	Description	Source
+Order Date	Date	Product order date	Primary CSV dataset
+Order ID	String	Product oroder ID	Primary CSV dataset
+Product	String	Product item	Primary CSV dataset
+Price	Float	Product price	Primary CSV dataset
+Quantity	Integer	Sell product number	Primary CSV dataset
+Total Revenue	Float	Product total revenue	Primary CSV dataset
+Shipping City	String	Shipping city of customer 	Primary CSV dataset
+Coupon Code	String	Product coupon code	Primary CSV dataset
